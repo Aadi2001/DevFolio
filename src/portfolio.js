@@ -221,26 +221,12 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: 'Google Code-In Finalist',
+      title: 'Ubuntu for Blinds',
       subtitle:
-        'First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.',
+        'Customised Ubuntu OS for blind to work on OpenOffice apps and chrome to work on google Sheets',
       image: require('./assets/images/codeInLogo.webp'),
       footerLink: [
-        {
-          name: 'Certification',
-          url:
-            'https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing',
-        },
-        {
-          name: 'Award Letter',
-          url:
-            'https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing',
-        },
-        {
-          name: 'Google Code-in Blog',
-          url:
-            'https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html',
-        },
+        
       ],
     },
     {
@@ -258,15 +244,15 @@ const achievementSection = {
     },
 
     {
-      title: 'PWA Web App Developer',
-      subtitle: 'Completed Certifcation from SMIT for PWA Web App Development',
+      title: ' Defences In Cyber Security Course',
+      subtitle: 'Completed Certifcation from Udemy for Cyber Security',
       image: require('./assets/images/pwaLogo.webp'),
       footerLink: [
-        { name: 'Certification', url: '' },
-        {
-          name: 'Final Project',
+        { name: 'Certification', url: 'https://drive.google.com/file/d/1xmOD4TxJr2-WF4Rg7il__MUFET0aXBCm/view?usp=drivesdk' },
+        /*{
+          name: ' Defences In Cyber Security Course',
           url: 'https://pakistan-olx-1.firebaseapp.com/',
-        },
+        },*/
       ],
     },
   ],
