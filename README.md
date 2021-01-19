@@ -132,8 +132,8 @@ If the above solution still doesn't work, visit the [wiki page](https://github.c
 const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Aadi",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  subTitle: emoji("A passionate Full Stack Software Developer & Data Science 🚀"),
+  resumeLink: "https://drive.google.com/file/d/1HOtvBFZwJNj6ao_p1eFVIkqAgiFHaLKj/view?usp=drivesdk"
 };
 
 const socialMediaLinks = {
