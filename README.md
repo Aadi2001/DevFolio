@@ -36,13 +36,8 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Work Experience\
 ✔️ Open Source Projects Connected with Github\
 ✔️ Big Projects\
-✔️ Achievements And Certifications 🏆\
-✔️ Blogs\
-✔️ Talks\
-✔️ Podcast\
+✔️ Achievements And Certifications 🏆
 ✔️ Contact me\
-✔️ Twitter Timeline\
-✔️ Github Profile
 
 To view a live example, **[click here](https://developerfolio.js.org/)**.
 
