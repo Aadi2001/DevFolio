@@ -223,7 +223,7 @@ const achievementSection = {
     {
       title: 'Ubuntu for Blinds',
       subtitle:
-        'Customised Ubuntu OS for blind to work on OpenOffice apps and chrome to work on google Sheets',
+        'Customised Ubuntu OS for blind to work on OpenOffice apps and chrome to work on Google Apps',
       image: require('./assets/images/codeInLogo.webp'),
       footerLink: [
         
